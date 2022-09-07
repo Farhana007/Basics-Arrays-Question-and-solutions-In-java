@@ -1,5 +1,6 @@
 import java.util.*;
-
+  
+// Some basics problem releated to Array
 public class Arrays {
 
   public static int linier_search(int numbers[], int key) {
